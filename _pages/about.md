@@ -19,5 +19,5 @@ I received Ph.D. in Computer Science and Engineering from the [University of Not
 <br/>
 <b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is solid engineering and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA4220.
 <br/>
-<b>Recommendation letter:</b> I write recommendation letters only for students who have worked with me for at least 3 months. 
+<b>Recommendation letter:</b> I write recommendation letter only for students who have worked with me for at least 3 months. 
 
