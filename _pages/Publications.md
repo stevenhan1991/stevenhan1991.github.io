@@ -8,8 +8,6 @@ nav: true
 ---
 <div class="Publications">
 
-<b> 2023 </b>
-
 <b> 2022 </b> 
 
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/Cylinder-A.gif" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
