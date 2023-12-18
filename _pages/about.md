@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor<br> Daoyuan Building 323b<br><a href="https://sds.cuhk.edu.cn/en/">School of Data Science</a><br><a href="https://cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a> 
+description: Assistant Professor, Presidential Young Fellow <br> Daoyuan Building 323b<br><a href="https://sds.cuhk.edu.cn/en/">School of Data Science</a><br><a href="https://cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a> 
 
 profile:
   align: right 
