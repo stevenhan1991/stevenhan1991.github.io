@@ -24,7 +24,7 @@ nav: true
  <b> Graduate Course</b>
 
   <div class="text">
-    <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA3003/index.html"><b>MDS6112 Data Visualization</b></a>2023 Spring, 2024 Spring
+    <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA3003/index.html"><b>MDS6112 Data Visualization</b></a> 2023 Spring, 2024 Spring
     </div>
    <hr>
  
