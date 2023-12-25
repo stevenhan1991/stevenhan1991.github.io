@@ -17,14 +17,14 @@ nav: true
    <hr>
    
   <div class="text">
-    <div class="title"><a name="VS" href="https://stevenhan1991.github.io/DDA2003/index.html"><b>DDA2003 Visual Analytics</b></a>
+    <div class="title"><a name="VS" href="https://stevenhan1991.github.io/DDA3003/index.html"><b>DDA3003 Visual Analytics</b></a>
     </div> 
   <hr>
  
  <b> Graduate Course</b>
 
   <div class="text">
-    <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA2003/index.html"><b>MDS6112 Data Visualization</b></a>
+    <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA3003/index.html"><b>MDS6112 Data Visualization</b></a>
     </div>
    <hr>
  
