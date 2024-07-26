@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: Incoming Assistant Professor </br>
-<a href="https://emia.hkust.edu.hk"> Division of Emerging Interdisciplinary Areas </a> </br>
+description: Incoming Assistant Professor
+<a href="https://emia.hkust.edu.hk"> Division of Emerging Interdisciplinary Areas </a> <br>
 <a href="https://hkust.edu.hk"> The Hong Kong University of Science and Technology </a> 
 
 profile:
