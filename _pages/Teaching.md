@@ -8,7 +8,7 @@ nav: true
 
 <div class="Teaching">
 
- <b> Undergraduate Course </b>
+ <b> Undergraduate Course at CUHK-SZ </b>
 
   <div class="text">
     <div class="title"><a name="HCI" href="https://stevenhan1991.github.io/CSC4130/index.html"><b>CSC4130 Introduction to Human-Computer Interaction</b> </a> 2022 Fall, 2023 Fall
@@ -21,7 +21,7 @@ nav: true
     </div> 
   <hr>
  
- <b> Graduate Course</b>
+ <b> Graduate Course at CUHK-SZ</b>
 
   <div class="text">
     <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA3003/index.html"><b>MDS6112 Data Visualization</b></a> 2023 Spring, 2024 Spring
