@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor <br> <a href="https://emia.hkust.edu.hk"> Division of Emerging Interdisciplinary Areas </a> <br> <a href="https://hkust.edu.hk"> The Hong Kong University of Science and Technology </a> <br> Email: hanjun[at]ust.hk
+description: Assistant Professor <br> <a href="https://emia.hkust.edu.hk"> Division of Emerging Interdisciplinary Areas </a> <br> <a href="https://hkust.edu.hk"> The Hong Kong University of Science and Technology </a> <br> Email hanjun[at]ust.hk
 
 profile:
   align: right 
