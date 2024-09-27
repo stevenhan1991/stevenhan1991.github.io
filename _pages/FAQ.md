@@ -64,7 +64,7 @@ nav: true
 <ul>
 <li><p><b>Do you have general expectations for graduation?</b></p>
 </li>
-<li><p> I generally expect that a qualified PhD can publish at least three first-author papers in IEEE TVCG, CGF, or IEEE PacificVis and these works should align the research topic well. </p>
+<li><p> I generally expect that a qualified PhD can publish at least three first-author papers in IEEE TVCG and these works should align the research topic well. </p>
 </li>
 </ul>
   
@@ -72,7 +72,7 @@ nav: true
 <ul>
 <li><p><b>Are you supportive of your students going on internships?</b></p>
 </li>
-<li><p>Yes, I definitely supprt students to have interships. Internships are a great opportunity to meet and collaborate with new people, grow your network, and gain a new perspective on research or engineering. I think summer is the a good time for internships. I don’t have a limit on the number of internships. However, I expect students to start their internship on the second or third summer of their PhD. Before the internship begins, I hope students can find their research diection and topic first. 
+<li><p>Yes, I definitely supprt students to have interships. Internships are a great opportunity to meet and collaborate with new people, grow your network, and gain a new perspective on research or engineering. I think summer is the a good time for internships. I don’t have a limit on the number of internships. However, I expect students to start their internship on the second or third summer of their PhD. Before the internship begins, I hope students can find their research direction and topic first. 
 </p>
 </li>
 </ul>
@@ -83,7 +83,7 @@ nav: true
   <ul>
 <li><p><b>Are there specific standard times that students in your group generally take vacation?</b></p>
 </li>
-<li><p>In general, students take vacations during official holidays (e.g., Spring Festival and National Day) and after paper deadlines. Students working with me will likely submit papers to IEEE VIS at the end of March, and visualization journals (e.g., IEEE TVCG, CGF, and C&G); so after submiiting a paper, students can take one or two weeks off.</p>
+<li><p>In general, students take vacations during official holidays (e.g., Spring Festival and National Day) and after paper deadlines. Students working with me will likely submit papers to IEEE VIS at the end of March, and visualization journals (e.g., IEEE TVCG, CGF, and C&G); so after submiiting a paper, students can take two weeks off.</p>
 </li>
 </ul>
   
