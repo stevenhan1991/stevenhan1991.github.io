@@ -263,7 +263,7 @@ defaults:
       comments: true
   - scope:
       path: ""
-      type: portfolio
+      type: FAQ
     values:
       layout: single
       author_profile: true
