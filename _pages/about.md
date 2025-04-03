@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas](https://emia.hkust.edu.hk) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/). Prior that, I spend two years at the Chinese University of Hong Kong, Shenzhen, as an assistant professor. I recevied my Ph.D. degree in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/) under the supervison of [Prof. Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my master's degree in Computer Software and Theory and my bachelor's degree in Software Engineering. Both from [Xidian University](https://en.xidian.edu.cn).
+I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas](https://emia.hkust.edu.hk) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/). Prior that, I spent two years at the Chinese University of Hong Kong, Shenzhen, as an assistant professor. I recevied my Ph.D. degree in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/) under the supervison of [Prof. Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my master's degree in Computer Software and Theory and my bachelor's degree in Software Engineering. Both from [Xidian University](https://en.xidian.edu.cn).
 
 <h1 id='research'>Research</h1>
 My research lies at the intersection of scientific visualization, human-computer interaction, and machine learning. Scientific simulations generate vast amounts of volumetric data essential for understanding various natural phenomena. My work seeks to address the following key challenges:
