@@ -12,14 +12,14 @@ I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas]
 <h1 id='research'>Research</h1>
 My research lies at the intersection of scientific visualization, human-computer interaction, and machine learning. Scientific simulations generate vast amounts of volumetric data essential for understanding various natural phenomena. My work seeks to address key challenges, such as:
 <ul>
-<li> <span style="color: #0073e6; font-weight: bold;"> How can we develop algorithms to efficiently manage large-scale simulation data? </span> <a href='https://ieeexplore.ieee.org/abstract/document/10371224/'>KDINR</a> and <a href='https://ieeexplore.ieee.org/abstract/document/9852325/'>CoordNet</a> </li>
-<li> How can we design generative models to rapidly produce scientific data? <a href='https://ieeexplore.ieee.org/document/9230431/'>V2V</a> and <a href='https://ieeexplore.ieee.org/document/9552857/'>STNet</a> </li>
-<li>How can we build intelligent, interactive systems that empower domain scientists to explore and visualize volumetric data for better decision-making and deeper insights? <a href='https://ieeexplore.ieee.org/abstract/document/8532319' >FlowNet</a> and DTBIA </li>
+<li> <span style="color: #9ED7FF; font-weight: bold;"> How can we develop algorithms to efficiently manage large-scale simulation data? </span> <a href='https://ieeexplore.ieee.org/abstract/document/10371224/'>KDINR</a> and <a href='https://ieeexplore.ieee.org/abstract/document/9852325/'>CoordNet</a> </li>
+<li> <span style="color: #BFFFBF; font-weight: bold;"> How can we design generative models to rapidly produce scientific data? </span> <a href='https://ieeexplore.ieee.org/document/9230431/'>V2V</a> and <a href='https://ieeexplore.ieee.org/document/9552857/'>STNet</a> </li>
+<li><span style="color: #D2CDFB; font-weight: bold;">  can we build intelligent, interactive systems that empower domain scientists to explore and visualize volumetric data for better decision-making and deeper insights? </span> <a href='https://ieeexplore.ieee.org/abstract/document/8532319' >FlowNet</a> and DTBIA </li>
 </ul>
 The goal of my research is to answer these questions.
 
 <h1 id="students">To Prospective Students</h1>
-[Ph.D. Applicants] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/HdSszZPxnxNtuJys6'>form</a>. 
+[<span font-weight: bold;"> Ph.D. Applicants </span>] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/HdSszZPxnxNtuJys6'>form</a>. 
 <br />
 
 [RA Openings] I have several openings for research assistant positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion.
