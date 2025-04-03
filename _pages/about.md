@@ -17,7 +17,7 @@ I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas]
   <li>[02/2025] ST2VR is accepted by IEEE PacificVis 2025!</li>
   <li>[12/2024] DTBIA is accepted by IEEE PacificVis TVCG-Track 2025!</li>
   <li>[09/2024] Offically joined HKUST as an assistant professor!</li>
-  <li>[08/2024] SingViso is accepted by C&G!<\li>
+  <li>[08/2024] SingViso is accepted by C&G!</li>
   <li>[09/2023] KDINR is accepted by IEEE TVCG!</li>
   <li>[08/2023] Received NSFC Young Scientist grant!</li>
 </ul>
