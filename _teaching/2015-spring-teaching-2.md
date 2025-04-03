@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "HKUST, EMIA"
-date: 2025 Spring
+date: 2025
 location: "HK, China"
 ---
