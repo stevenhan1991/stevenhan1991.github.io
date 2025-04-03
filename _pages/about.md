@@ -11,11 +11,6 @@ I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas]
 
 
 
-Students interested in joining my group starting in fall 2025 and 2026 should apply to the [Department of Computer Science](https://web.cs.toronto.edu/graduate/prospective). More on [this page](/joining).
-{: style="background-color: #ffffcc; float: left;"}
-
-
-
 <h1 id="recent-news">Recent News</h1>
 <ul>
   <li>[02/2025] Invited to serve as Program Commitee Member for IEEE VIS 2025!</li>
