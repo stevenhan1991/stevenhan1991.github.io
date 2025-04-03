@@ -25,9 +25,9 @@ author:
   avatar           : "prof_pic.png"
   name             : "Jun Han"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at HKUST"
+  bio              : "Assistant Professor in EMIA"
   location         : "Hong Kong"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "hanjun@ust.hk" 
 
