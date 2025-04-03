@@ -26,7 +26,6 @@ redirect_from:
 </li>
 </ul>
   
-    
 <ul>
 <li><p><b>How often do you plan to meet with students one-on-one (be as specific as possible, it's okay to describe multiple styles that may vary with student needs)? Is an agenda required? How long are meetings?</b></p>
 </li>
