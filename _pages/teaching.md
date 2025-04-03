@@ -40,7 +40,7 @@ redirect_from:
  <b> Graduate Course at HKUST</b>
 
   <div class="text">
-    <div class="title"><b>MDS6112 Data Visualization</b> 2024 Spring
+    <div class="title"><b>MDS6112 Data Visualization</b> 2023 Spring, 2024 Spring
     </div>
    <hr>
  
