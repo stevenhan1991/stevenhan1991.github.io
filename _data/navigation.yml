@@ -10,7 +10,7 @@
 main:
 
 - title: "Students"
-    url: /student/ 
+    url: /students/ 
   
   - title: "Publications"
     url: /publications/   
