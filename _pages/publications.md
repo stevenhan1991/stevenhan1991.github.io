@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 <div class="Publications">
   
 <b> 2022 </b> 
