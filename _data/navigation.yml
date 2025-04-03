@@ -11,13 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Group"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "FAQ"
     url: /portfolio/
         
   #- title: "Blog Posts"
