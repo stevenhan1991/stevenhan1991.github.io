@@ -32,7 +32,8 @@ redirect_from:
     </div>
   </div>
 
-  
+<hr>
+
 <b> 2024 </b>
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DTBIA.png" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
@@ -56,7 +57,7 @@ redirect_from:
 	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DTBIA.wmv">Video</a></span>
     </div>
   </div>
-  
+<hr>
 
 <b> 2023 </b>
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/KDINR.png" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
