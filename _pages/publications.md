@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 <div class="Publications">
   
 <b> 2022 </b> 
