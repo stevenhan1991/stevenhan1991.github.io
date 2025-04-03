@@ -17,12 +17,12 @@ redirect_from:
     <div class="title"><a name="ST2VR" href="http://stevenhan1991.github.io/assets/pdf/ST2VR-Paper.pdf">ST2VR: An Interactive Authoring System for SpatioTemporal STorytelling in Virtual Reality with Hierarchical Narrative Structure</a>
     </div> 
     <div class="authors">
-	    <span class="author">Yifei Zhang</span>
-	    <span class="author">Jingyan Zhang</span>
-	    <span class="author">Ziyue Lin</span>
-	    <span class="author">Lin-Ping Yuan</span>
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">Yalong Yang</span>
+	    <span class="author">Yifei Zhang,</span>
+	    <span class="author">Jingyan Zhang,</span>
+	    <span class="author">Ziyue Lin,</span>
+	    <span class="author">Lin-Ping Yuan,</span>
+	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author">Yalong Yang,</span>
 	    <span class="author">and Siming Chen</span>
     </div>
     <div>
@@ -41,14 +41,14 @@ redirect_from:
     <div class="title"><a name="KDINR" href="http://stevenhan1991.github.io/assets/pdf/DTBIA-Paper.pdf">DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research</a>
     </div> 
     <div class="authors">
-	    <span class="author">Jun-Hsiang Yao</span>
-	    <span class="author">Mingzheng Li</span>
-	    <span class="author">Jiayi Liu</span>
-	    <span class="author">Yuxiao Li</span>
-	    <span class="author">Jielin Feng</span>
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">Qibao Zheng</span>
-	    <span class="author">Jianfeng Feng</span>
+	    <span class="author">Jun-Hsiang Yao,</span>
+	    <span class="author">Mingzheng Li,</span>
+	    <span class="author">Jiayi Liu,</span>
+	    <span class="author">Yuxiao Li,</span>
+	    <span class="author">Jielin Feng,</span>
+	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author">Qibao Zheng,</span>
+	    <span class="author">Jianfeng Feng,</span>
 	    <span class="author">and Siming Chen</span>
     </div>
     <div>
@@ -66,8 +66,8 @@ redirect_from:
     <div class="title"><a name="KDINR" href="http://stevenhan1991.github.io/assets/pdf/KDINR-Paper.pdf">KD-INR: Time-Varying Volumetric Data Compression via Knowledge Distillation-Based Implicit Neural Representation</a>
     </div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author"> Hao Zheng</span>
+	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author">Hao Zheng,</span>
 	    <span class="author">and Chongke Bi</span>
     </div>
     <div>
