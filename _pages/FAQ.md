@@ -1,9 +1,10 @@
 ---
-layout: page
-permalink: /FAQ/
-title: FAQ
-description: 
-nav: true
+layout: archive
+title: "FAQ"
+permalink: /faq/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 <div class="FAQ">
