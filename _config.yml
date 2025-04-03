@@ -272,7 +272,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: students
+      type: Group
     values:
       layout: single
       author_profile: true
