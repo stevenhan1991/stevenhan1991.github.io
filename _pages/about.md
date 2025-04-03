@@ -14,9 +14,11 @@ I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas]
 
 <h1 id="students">To Prospective Students</h1>
 [Ph.D. Applicants] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/HdSszZPxnxNtuJys6'>form</a>. 
-<hr>
+<br />
 
-[RA Openings] I have several opening for research assistants, working on scientific visualization and machine learning. Interested students can send me an email for further discussion. 
+[RA Openings] I have several openings for research assistant positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion.
+
+<br />
 
 Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)
 Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement (1 page, Ph.D. applicants only), and transcripts.
