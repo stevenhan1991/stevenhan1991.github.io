@@ -261,10 +261,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
   - scope:
       path: ""
-      type: students
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -273,11 +272,12 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: FAQ
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS
