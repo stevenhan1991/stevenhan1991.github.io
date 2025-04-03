@@ -21,7 +21,7 @@ redirect_from:
 	    <span class="author">Jingyan Zhang,</span>
 	    <span class="author">Ziyue Lin,</span>
 	    <span class="author">Lin-Ping Yuan,</span>
-	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author"><b>Jun Han</b>,</span>
 	    <span class="author">Yalong Yang,</span>
 	    <span class="author">and Siming Chen</span>
     </div>
@@ -46,7 +46,7 @@ redirect_from:
 	    <span class="author">Jiayi Liu,</span>
 	    <span class="author">Yuxiao Li,</span>
 	    <span class="author">Jielin Feng,</span>
-	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author"><b>Jun Han</b>,</span>
 	    <span class="author">Qibao Zheng,</span>
 	    <span class="author">Jianfeng Feng,</span>
 	    <span class="author">and Siming Chen</span>
@@ -66,7 +66,7 @@ redirect_from:
     <div class="title"><a name="KDINR" href="http://stevenhan1991.github.io/assets/pdf/KDINR-Paper.pdf">KD-INR: Time-Varying Volumetric Data Compression via Knowledge Distillation-Based Implicit Neural Representation</a>
     </div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han,</b></span>
+	    <span class="author"><b>Jun Han</b>,</span>
 	    <span class="author">Hao Zheng,</span>
 	    <span class="author">and Chongke Bi</span>
     </div>
