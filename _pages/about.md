@@ -23,7 +23,6 @@ The goal of my research is to answer these questions.
 <br />
 
 [RA Openings] I have several openings for research assistant positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion.
-
 <br />
 
 Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)
