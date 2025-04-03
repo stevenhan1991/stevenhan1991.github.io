@@ -13,7 +13,7 @@ I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas]
 
 
 <h1 id="students">To Prospective Students</h1>
-[Ph.D. Applicants] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this [form](https://forms.gle/HdSszZPxnxNtuJys6). 
+[Ph.D. Applicants] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/HdSszZPxnxNtuJys6'>form</a>. 
 
 [RA Openings] I have several opening for research assistants, working on scientific visualization and machine learning. Interested students can send me an email for further discussion. 
 
