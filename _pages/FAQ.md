@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "FAQ"
-permalink: /portfolio/
+permalink: /FAQ/
 author_profile: true
 redirect_from:
   - /resume
