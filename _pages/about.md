@@ -24,4 +24,5 @@ Students interested in joining my group starting in fall 2025 and 2026 should ap
   <li>[09/2024] Offically joined HKUST as an assistant professor!</li>
   <li>[08/2024] SingViso is accepted by C&G!<\li>
   <li>[09/2023] KDINR is accepted by IEEE TVCG!</li>
+  <li>[08/2023] Received NSFC Young Scientist grant!</li>
 </ul>
