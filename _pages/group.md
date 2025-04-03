@@ -17,7 +17,7 @@ redirect_from:
    <hr>
 
    <div class="text">
-    <div class="title"> Bolin Zhao, BS in HKUST, 2025 Fall, co-supervised with [Prof. Xiaojuan Ma](https://seng.hkust.edu.hk/about/people/faculty/xiaojuan-ma) </div> 
+    <div class="title"> Bolin Zhao, BS in HKUST, 2025 Fall, co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/xiaojuan-ma">Prof. Xiaojuan Ma </div> 
    
    <hr>
  
