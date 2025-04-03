@@ -9,7 +9,16 @@ redirect_from:
 
 I'm an Assistant Professor in the [Division of Emerging Interdisciplinary Areas](https://emia.hkust.edu.hk) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/). Prior that, I spend two years at the Chinese University of Hong Kong, Shenzhen, as an assistant professor. I recevied my Ph.D. degree in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/) under the supervison of [Prof. Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my master's degree in Computer Software and Theory and my bachelor's degree in Software Engineering. Both from [Xidian University](https://en.xidian.edu.cn).
 
+<h1 id='research'>Research</h1>
 
+
+<h1 id="students">To Prospective Students</h1>
+[Ph.D. Applicants] I plan to recuit 2-3 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this [form](https://forms.gle/HdSszZPxnxNtuJys6). 
+
+[RA Openings] I have several opening for research assistants, working on scientific visualization and machine learning. Interested students can send me an email for further discussion. 
+
+Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)
+Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement (1 page, Ph.D. applicants only), and transcripts.
 
 <h1 id="recent-news">Recent News</h1>
 <ul>
