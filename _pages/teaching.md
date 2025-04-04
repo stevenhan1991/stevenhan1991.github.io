@@ -37,7 +37,7 @@ redirect_from:
    
    <hr>
  
- <b> Graduate Course at HKUST</b>
+ <b> Graduate Course at CUHK-SZ</b>
 
   <div class="text">
     <div class="title"><b>MDS6112 Data Visualization</b> 2023 Spring, 2024 Spring
