@@ -11,23 +11,6 @@ redirect_from:
 <div class="Publications">
 
 <b> 2025 </b>
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DCINR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
-</div>
-  <div class="text">
-    <div class="title"><a name="ST2VR" href="http://stevenhan1991.github.io/assets/pdf/DCINR-Paper.pdf">DCINR: A Divide-and-Conquer Implicit Neural Representation for Compressing Time-Varying Volumetric Data in Hours</a>
-    </div> 
-    <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Fan Yang</span>
-    </div>
-    <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DCINR-Paper.pdf">Paper</a></span> /
-	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DCINR.wmv">Video</a></span>
-    </div>
-  </div>
-
-<hr>
 
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/ST2VR.png" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
