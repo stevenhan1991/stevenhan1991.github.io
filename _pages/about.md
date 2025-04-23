@@ -30,7 +30,6 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
-  <li>[04/2025] DCINR is accepted by IEEE TVCG! </li>
   <li>[02/2025] Invited to serve as Program Commitee Member for IEEE VIS 2025!</li>
   <li>[02/2025] ST2VR is accepted by IEEE PacificVis 2025!</li>
   <li>[12/2024] DTBIA is accepted by IEEE PacificVis TVCG-Track 2025!</li>
