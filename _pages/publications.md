@@ -11,7 +11,26 @@ redirect_from:
 <div class="Publications">
 
 <b> 2025 </b>
- 
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/Study.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="DCINR" href="http://stevenhan1991.github.io/assets/pdf/Study-Paper.pdf">A Study of Data Augmentation for Learning-Driven Scientific Visualization</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author"><b>Hao Zheng</b></span>
+	    <span class="author">and Jun Tao</span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/Study-Paper.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/Study-Appendix">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
+
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DCINR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
