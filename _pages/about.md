@@ -14,8 +14,9 @@ My research lies at the intersection of scientific visualization, human-computer
 <ul>
 <li> <span style="color: #0067B1; font-weight: bold;"> How can we develop learning-driven algorithms to efficiently and effectively manage large-scale simulation data for the prupose of data reduction and visualization? </span> Representative papers include <a href='https://ieeexplore.ieee.org/abstract/document/10371224/'>KD-INR</a> and <a href='https://ieeexplore.ieee.org/abstract/document/9852325/'>CoordNet</a>. </li>
 <li> <span style="color: #DC5541; font-weight: bold;"> How can we design generative models to rapidly produce scientific data? </span> Representative papers include <a href='https://ieeexplore.ieee.org/document/9230431/'>V2V</a> and <a href='https://ieeexplore.ieee.org/document/9552857/'>STNet</a>. </li>
-<li><span style="color: #B86CE4; font-weight: bold;"> How can we build intelligent and interactive systems that empower domain scientists to explore and visualize volumetric data for better decision-making and deeper insights? </span> Representative papers include <a href='https://ieeexplore.ieee.org/abstract/document/8532319'>FlowNet</a> and DTBIA<a href='https://ieeexplore.ieee.org/abstract/document/10988699'>. </li>
+<li><span style="color: #B86CE4; font-weight: bold;"> How can we build intelligent and interactive systems that empower domain scientists to explore and visualize volumetric data for better decision-making and deeper insights? </span> Representative papers include <a href='https://ieeexplore.ieee.org/abstract/document/8532319'>FlowNet</a> and <a href='https://ieeexplore.ieee.org/abstract/document/10988699'>DTBIA</a>. </li>
 </ul>
+
 The goal of my research is to answer these questions.
 
 <h1 id="students">To Prospective Students</h1>
