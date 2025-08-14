@@ -18,7 +18,7 @@ redirect_from:
     </div> 
     <div class="authors">   
 		<span class="author"><b>Jun Han</b></span>
-		<span class="author">Kaiyuan Tang</span>
+		<span class="author">, Kaiyuan Tang</span>
 		<span class="author">, and Chaoli Wang</span>		
     </div>
     <div>
