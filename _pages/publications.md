@@ -11,6 +11,66 @@ redirect_from:
 <div class="Publications">
 
 <b> 2025 </b>
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MoEINR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/TexGS.pdf">MoE-INR: Implicit Neural Representation with Mixture-of-Experts for Time-Varying Volumetric Data Compression</a>
+    </div> 
+    <div class="authors">   
+		<span class="author"><b>Jun Han</b></span>
+		<span class="author">Kaiyuan Tang</span>
+		<span class="author">, and Chaoli Wang</span>		
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2025)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/MoEINR.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/MoE-INR.pdf">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
+
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TexGS.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/TexGS.pdf">TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting</a>
+    </div> 
+    <div class="authors">
+		<span class="author">Kaiyuan Tang,</span>
+	    <span class="author">Kuangshi Ai,</span>    
+		<span class="author"><b>Jun Han</b></span>
+		<span class="author">, and Chaoli Wang</span>		
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2025)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TexGS.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TexGS-Appendix.pdf">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/CD-TVD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/CD-TVD.pdf">CD-TVD:Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data</a>
+    </div> 
+    <div class="authors">
+		<span class="author">Chongke Bi, </span>
+	    <span class="author">Xin Gao,</span>
+		<span class="author">Jiakang Deng, </span>
+	    <span class="author">Guan Li, and</span>	    
+		<span class="author"><b>Jun Han</b></span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG (Honorable Mention Award at IEEE VIS 2025)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CD-TVD.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CD-Appendix.pdf">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
 
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/study.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
