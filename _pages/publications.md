@@ -17,9 +17,9 @@ redirect_from:
     <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/TexGS.pdf">MoE-INR: Implicit Neural Representation with Mixture-of-Experts for Time-Varying Volumetric Data Compression</a>
     </div> 
     <div class="authors">   
-		<span class="author"><b>Jun Han</b></span>
-		<span class="author">, Kaiyuan Tang</span>
-		<span class="author">, and Chaoli Wang</span>		
+		<span class="author"><b>Jun Han</b>,</span>
+		<span class="author">Kaiyuan Tang,</span>
+		<span class="author">and Chaoli Wang</span>		
     </div>
     <div>
                   <span class="venue">IEEE TVCG (IEEE VIS 2025)</span> /
@@ -39,8 +39,8 @@ redirect_from:
     <div class="authors">
 		<span class="author">Kaiyuan Tang,</span>
 	    <span class="author">Kuangshi Ai,</span>    
-		<span class="author"><b>Jun Han</b></span>
-		<span class="author">, and Chaoli Wang</span>		
+		<span class="author"><b>Jun Han</b>,</span>
+		<span class="author">and Chaoli Wang</span>		
     </div>
     <div>
                   <span class="venue">IEEE TVCG (IEEE VIS 2025)</span> /
@@ -57,9 +57,9 @@ redirect_from:
     <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/CD-TVD.pdf">CD-TVD:Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data</a>
     </div> 
     <div class="authors">
-		<span class="author">Chongke Bi, </span>
+		<span class="author">Chongke Bi,</span>
 	    <span class="author">Xin Gao,</span>
-		<span class="author">Jiakang Deng, </span>
+		<span class="author">Jiakang Deng,</span>
 	    <span class="author">Guan Li, and</span>	    
 		<span class="author"><b>Jun Han</b></span>
     </div>
