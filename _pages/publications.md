@@ -64,7 +64,7 @@ redirect_from:
 		<span class="author"><b>Jun Han</b></span>
     </div>
     <div>
-                  <span class="venue">IEEE TVCG (Honorable Mention Award at IEEE VIS 2025)</span> /
+                  <span class="venue">IEEE TVCG (<span style="color:red">Honorable Mention Award at IEEE VIS 2025</span>)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CD-TVD.pdf">Paper</a></span> /
 	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CD-Appendix.pdf">Appendix</a></span>
     </div>
