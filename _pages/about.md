@@ -31,7 +31,7 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
-  <li>[07/2025] CD-TVD recevies Honorable Mention Award at IEEE VIS 2025!</li>
+  <li>[07/2025] CD-TVD receives Honorable Mention Award at IEEE VIS 2025!</li>
   <li>[07/2025] Three papers are accepted by IEEE VIS 2025!</li>
   <li>[07/2025] Study of data augmenttaion for learning-driven scientific visualization is accepted by IEEE TVCG!</li>
   <li>[04/2025] DCINR is accepted by IEEE TVCG!</li>
