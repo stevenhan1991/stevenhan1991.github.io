@@ -250,7 +250,7 @@ redirect_from:
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Chaoli Wang</span>,
 	    <span class="author">Alexis Lau</span>,
-	    <span class="author">and Huaming Qu</span>
+	    <span class="author">and Huamin Qu</span>
     </div>
 	  <div>
                   <span class="venue">ACM IUI 2022</span> /
