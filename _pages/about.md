@@ -23,7 +23,7 @@ The goal of my research is to answer these questions.
 [<b>Ph.D. Applicant</b>] I plan to recuit 1-2 students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a>. 
 <br />
 
-[<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion.
+<s> [<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. </s>
 <br />
 
 Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)
