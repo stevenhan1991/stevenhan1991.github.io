@@ -26,8 +26,8 @@ The goal of my research is to answer these questions.
 <s> [<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. </s>
 <br />
 
-Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)
-Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement (1 page, Ph.D. applicants only), and transcripts.
+Email Subject: School-Name-Ph.D.
+Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement, and transcript(s).
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
