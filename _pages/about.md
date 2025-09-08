@@ -20,7 +20,7 @@ My research lies at the intersection of scientific visualization, human-computer
 The goal of my research is to answer these questions.
 
 <h1 id="students">To Prospective Students</h1>
-[<b>Ph.D. Applicant</b>] <s> I plan to recuit  students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a> </s>.
+[<b>Ph.D. Applicant</b>] <s> I plan to recuit  students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a> </s>. The Ph.D. quota for Fall 2026 has already been filled.
 <br />
 
 <s> [<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. </s>
