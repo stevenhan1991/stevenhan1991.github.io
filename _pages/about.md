@@ -27,7 +27,7 @@ The Ph.D. quota for Fall 2026 has already been filled.
 
 <br />
 
-[<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. </s>
+[<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. 
 <br />
 
 Email Subject: School-Name-Ph.D.
