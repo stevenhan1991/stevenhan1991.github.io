@@ -24,7 +24,7 @@ redirect_from:
  <b> Visiting Students </b>
 
   <div class="text">
-    <div class="title">Jianing Hao, Ph.D. in HKUST(GZ), 2025 Spring </div>
+    <div class="title">Jianing Hao, Ph.D. in HKUST(GZ), 2025 Spring - 2025 Summer </div>
    <hr>
  
 </div>
