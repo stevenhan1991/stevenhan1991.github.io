@@ -20,11 +20,11 @@ redirect_from:
     <div class="title"> Bolin Zhao, BS in HKUST, 2025 Fall - Present, co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/xiaojuan-ma">Prof. Xiaojuan Ma</a></div> 
    
    <hr>
-<b> Research Assitants
+<b> Research Assitants   </b>
   <div class="text">
     <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU，2026.1 - present </div>
-   <hr></b>
- 
+   <hr>
+
  <b> Visiting Students </b>
 
   <div class="text">
