@@ -36,11 +36,11 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
-  <li>[01/2026] One Paper is accepted by IEEE TVCG!</li>
+  <li>[01/2026] One paper is accepted by IEEE TVCG!</li>
   <li>[01/2026] One paper is accepted by IEEE ISBI!</li>
   <li>[08/2025] CD-TVD receives Honorable Mention Award at IEEE VIS 2025!</li>
   <li>[07/2025] Three papers are accepted by IEEE VIS 2025!</li>
-  <li>[07/2025] Study of data augmenttaion for learning-driven scientific visualization is accepted by IEEE TVCG!</li>
+  <li>[07/2025] One paper is accepted by IEEE TVCG!</li>
   <li>[04/2025] DCINR is accepted by IEEE TVCG!</li>
   <li>[02/2025] Invited to serve as Program Commitee Member for IEEE VIS 2025!</li>
   <li>[02/2025] ST2VR is accepted by IEEE PacificVis 2025!</li>
