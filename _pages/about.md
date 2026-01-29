@@ -36,6 +36,7 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
+  <li>[01/2026] One paper is accepted by IEEE VR!</li>
   <li>[01/2026] One paper is accepted by IEEE TVCG!</li>
   <li>[01/2026] One paper is accepted by IEEE ISBI!</li>
   <li>[08/2025] CD-TVD receives Honorable Mention Award at IEEE VIS 2025!</li>
