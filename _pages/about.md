@@ -20,10 +20,11 @@ My research lies at the intersection of scientific visualization, human-computer
 The goal of my research is to answer these questions.
 
 <h1 id="students">To Prospective Students</h1>
-The Ph.D. quota for 2026 Fall has been fully filled.
 <br/>
 
 [<b>Psotdoc Opening</b>] I have one postdoctoral position available focused on representation learning for scientific visualization. Applicants interested in working with me can send an email to hanjun@ust.hk with a curriculum vitae and up to three representative publications or projects.
+
+The Ph.D. quota for 2026 Fall has been fully filled.
 
 <s> [<b>Ph.D. Applicant</b>] I plan to recuit  students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a>. 
 
