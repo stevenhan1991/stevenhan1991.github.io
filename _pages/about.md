@@ -22,7 +22,7 @@ The goal of my research is to answer these questions.
 <h1 id="students">To Prospective Students</h1>
 <br/>
 
-[<b>Psotdoc Opening</b>] I have one postdoctoral position available focused on representation learning for scientific visualization. Applicants interested in working with me can send an email to hanjun@ust.hk with a curriculum vitae and up to three representative publications or projects.
+[<b>Psotdoc Opening</b>] I have one postdoctoral position available focused on representation learning for scientific visualization. Applicants interested in working with me can send an email to hanjun@ust.hk with a curriculum vitae and up to three representative publications.
 
 The Ph.D. quota for 2026 Fall has been fully filled.
 
