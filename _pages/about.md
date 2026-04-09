@@ -24,18 +24,19 @@ The goal of my research is to answer these questions.
 
 [<b>Psotdoc Opening</b>] I have one postdoctoral position available focused on representation learning for scientific visualization. Applicants interested in working with me can send an email to hanjun@ust.hk with a curriculum vitae and up to three representative publications.
 
-The Ph.D. quota for 2026 Fall has been fully filled.
 
-<s> [<b>Ph.D. Applicant</b>] I plan to recuit  students in 2026 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a>. 
+ [<b>Ph.D. Applicant</b>] I plan to recuit one or two Ph.D. students in 2027 Fall. If you are interested in working with me, please send an email to hanjun@ust.hk and fill out this <a href='https://forms.gle/FBWqxbXtYLyB9Rkw9'>form</a>. 
 
 <br />
 
+<s>
 [<b>Research Assistant and Visiting Student</b>] I have several openings for research assistant and visiting positions focused on developing machine learning-driven solutions for ocean visualization. Interested students are encouraged to reach out via email for further discussion. 
 <br />
+</s> 
 
 Email Subject: School-Name-Ph.D.
 Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement, and transcript(s).
-</s> 
+
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
