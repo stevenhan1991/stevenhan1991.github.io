@@ -28,6 +28,7 @@ The goal of my research is to answer these questions.
 <br/>
 
 Email Subject: School-Name-Ph.D.
+
 Materials include: CV (education background, academic ranking, list of papers/projects, etc.), Research Statement, and transcript(s).
 
 <s>
