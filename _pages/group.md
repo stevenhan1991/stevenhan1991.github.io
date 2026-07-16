@@ -21,7 +21,7 @@ redirect_from:
    
    <hr>
    <div class="text">
-    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.9 - present </div>
+    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, BS and Mphil in ECNU, 2026.9 - present </div>
    <hr>
 
   <div class="text">
@@ -31,7 +31,7 @@ redirect_from:
 
   <b> Research Assitants   </b>
   <div class="text">
-    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.1 - 2026.7 </div>
+    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, BS and Mphil in ECNU, 2026.1 - 2026.7 </div>
    <hr>
 
  <b> Visiting Students </b>
