@@ -29,7 +29,7 @@ redirect_from:
    <hr>
    
 
-     <b> Research Assitants   </b>
+  <b> Research Assitants   </b>
   <div class="text">
     <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.1 - 2026.7 </div>
    <hr>
