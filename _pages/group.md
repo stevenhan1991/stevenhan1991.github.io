@@ -20,9 +20,18 @@ redirect_from:
     <div class="title"> <a href = "https://scholar.google.com/citations?user=SB-v8e0AAAAJ&hl=en">Bolin Zhao</a>, BS in HKUST, 2025 Fall - Present, co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/xiaojuan-ma">Prof. Xiaojuan Ma</a></div> 
    
    <hr>
-<b> Research Assitants   </b>
+   <div class="text">
+    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.9 - present </div>
+   <hr>
+
   <div class="text">
-    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.1 - Present </div>
+    <div class="title"><a href="https://jiajunzhuchris.github.io">Jiajun Zhu</a>, BS in Zhejiang University, 2026.9 - present </div>
+   <hr>
+   
+
+     <b> Research Assitants   </b>
+  <div class="text">
+    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, Mphil in ECNU, 2026.1 - 2026.7 </div>
    <hr>
 
  <b> Visiting Students </b>
