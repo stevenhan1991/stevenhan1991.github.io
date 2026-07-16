@@ -39,6 +39,7 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
+  <li>[07/2026] Two papers are accepted by IEEE VIS 2026!</li>
   <li>[01/2026] Invited to Serve as Full Paper Program Committee Member at IEEE VIS 2026!</li>
   <li>[01/2026] One paper is accepted by IEEE VR!</li>
   <li>[01/2026] One paper is accepted by IEEE TVCG!</li>
