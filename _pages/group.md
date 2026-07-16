@@ -21,11 +21,11 @@ redirect_from:
    
    <hr>
    <div class="text">
-    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, BS and Mphil in ECNU, 2026.9 - present </div>
+    <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, BS and Mphil in ECNU, 2026 Fall - present </div>
    <hr>
 
   <div class="text">
-    <div class="title"><a href="https://jiajunzhuchris.github.io">Jiajun Zhu</a>, BS in Zhejiang University, 2026.9 - present </div>
+    <div class="title"><a href="https://jiajunzhuchris.github.io">Jiajun Zhu</a>, BS in Zhejiang University, 2026 Fall - present </div>
    <hr>
    
 
