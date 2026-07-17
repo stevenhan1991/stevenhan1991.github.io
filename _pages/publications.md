@@ -64,7 +64,7 @@ redirect_from:
     </div>
     <div>
                   <span class="venue">IEEE VR 2026</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VR.pdf">Paper</a></span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VR.pdf">Paper</a></span>
     </div>
   </div>
 
