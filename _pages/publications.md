@@ -10,6 +10,45 @@ redirect_from:
 
 <div class="Publications">
 
+<b> 2026 </b>
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/EnsembleNGP.pdf" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/EnsembleNGP.pdf">EnsembleNGP: Exploring Time-Varying Volumetric Ensemble Data via Parameter and Spatial Space Decomposition</a>
+    </div> 
+    <div class="authors">   
+		<span class="author"><b>Jun Han</b></span>	
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2026)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/EnsembleNGP.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/EnsembleNGP-Appendix.pdf">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VQANR.pdf" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantization
+for Time-Varying Ensemble Data Exploration</a>
+    </div> 
+    <div class="authors">
+		<span class="author">Huayuan Ye,</span>
+	    <span class="author">Bolin Zhao,</span>
+		<span class="author">Chenhui Li, and </span>	
+		<span class="author"><b>Jun Han</b>,</span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2026)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VQ-ANR.pdf">Paper</a></span> /
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VQ-ANR-Appendix.pdf">Appendix</a></span>
+    </div>
+  </div>
+
+<hr>
+
 <b> 2025 </b>
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MoEINR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
