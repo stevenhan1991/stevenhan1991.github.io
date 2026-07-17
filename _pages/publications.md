@@ -11,7 +11,7 @@ redirect_from:
 <div class="Publications">
 
 <b> 2026 </b>
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/EnsembleNGP.pdf" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/EnsembleNGP.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
     <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/EnsembleNGP.pdf">EnsembleNGP: Exploring Time-Varying Volumetric Ensemble Data via Parameter and Spatial Space Decomposition</a>
@@ -28,7 +28,7 @@ redirect_from:
 
 <hr>
 
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VQANR.pdf" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VQANR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
     <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantization
