@@ -38,7 +38,7 @@ for Time-Varying Ensemble Data Exploration</a>
 		<span class="author">Huayuan Ye,</span>
 	    <span class="author">Bolin Zhao,</span>
 		<span class="author">Chenhui Li, and </span>	
-		<span class="author"><b>Jun Han</b>,</span>
+		<span class="author"><b>Jun Han</b></span>
     </div>
     <div>
                   <span class="venue">IEEE TVCG (IEEE VIS 2026)</span> /
