@@ -31,8 +31,7 @@ redirect_from:
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VQANR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantization
-for Time-Varying Ensemble Data Exploration</a>
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantizatio for Time-Varying Ensemble Data Exploration</a>
     </div> 
     <div class="authors">
 		<span class="author">Huayuan Ye,</span>
@@ -49,6 +48,27 @@ for Time-Varying Ensemble Data Exploration</a>
 
 <hr>
 
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VR.pdf">Towards Understanding Time-Varying Spatial 3D Data Analysis with Animation and Small Multiples in Virtual Reality and Desktop</a>
+    </div> 
+    <div class="authors">
+		<span class="author">Linping Yuan,</span>
+	    <span class="author">Le Lin,</span>
+		<span class="author">Yuquan Lin, </span>	
+		<span class="author"><b>Jun Han</b>,</span>
+		<span class="author">Zikun Deng,</span>
+	    <span class="author">Weicong Cheng, and </span>
+		<span class="author">Huamin Qu</span>
+    </div>
+    <div>
+                  <span class="venue">IEEE VR 2026</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VR.pdf">Paper</a></span> /
+    </div>
+  </div>
+
+<hr>
 <b> 2025 </b>
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MoEINR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
