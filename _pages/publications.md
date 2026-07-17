@@ -31,7 +31,7 @@ redirect_from:
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VQANR.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantizatio for Time-Varying Ensemble Data Exploration</a>
+    <div class="title"><a name="Study" href="http://stevenhan1991.github.io/assets/pdf/VQANR.pdf">VQ-ANR: Attention Neural Representation with Vector Quantization for Time-Varying Ensemble Data Exploration</a>
     </div> 
     <div class="authors">
 		<span class="author">Huayuan Ye,</span>
