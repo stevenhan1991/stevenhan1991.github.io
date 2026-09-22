@@ -40,7 +40,7 @@ redirect_from:
 		<span class="author"><b>Jun Han</b></span>
     </div>
     <div>
-                  <span class="venue">IEEE TVCG (IEEE VIS 2026)</span> /
+                  <span class="venue">IEEE TVCG (<span style="color:red">Honorable Mention Award at IEEE VIS 2026</span>)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VQ-ANR.pdf">Paper</a></span> /
 	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VQ-ANR-Appendix.pdf">Appendix</a></span>
     </div>
