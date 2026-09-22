@@ -39,6 +39,7 @@ Materials include: CV (education background, academic ranking, list of papers/pr
 
 <h1 id="recent-news">Recent News</h1>
 <ul> 
+  <li>[09/2026] VQ-ANR receives Honorable Mention Award at IEEE VIS 2026!</li>
   <li>[07/2026] Invited to Serve as Full Paper Program Committee Member at IEEE PacificVis (TVCG Track) 2027!</li>
   <li>[07/2026] Two papers are accepted by IEEE VIS 2026!</li>
   <li>[01/2026] Invited to Serve as Full Paper Program Committee Member at IEEE VIS 2026!</li>
