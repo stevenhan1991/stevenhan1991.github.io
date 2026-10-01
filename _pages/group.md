@@ -9,14 +9,17 @@ redirect_from:
 
 <div class="Teaching">
 
- <b> Ph.D. Students </b>
+ <b> Ph.D. Candidates </b>
 
   <div class="text">
 
    <div class="text">
     <div class="title"> <a href = "https://scholar.google.com/citations?user=SB-v8e0AAAAJ&hl=en">Bolin Zhao</a>, BS in HKUST, 2025 Fall - Present, co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/xiaojuan-ma">Prof. Xiaojuan Ma</a></div> 
    
-   <hr>
+ <b> Ph.D. Students </b>
+
+  <div class="text">
+    
    <div class="text">
     <div class="title"><a href="https://huayuan.info/">Huayuan Ye</a>, BS and Mphil in ECNU, 2026 Fall - present </div>
    <hr>
